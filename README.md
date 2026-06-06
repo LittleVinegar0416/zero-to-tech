@@ -2,7 +2,7 @@
 这是我的第一个网页项目，是跟着Bilibili李勃老师的全栈开发课程一步一步做的
 
 '''
-<p>hello world</p>
+<p>hello GitHub</p>
 '''
 
 你需要注意以下几点：
